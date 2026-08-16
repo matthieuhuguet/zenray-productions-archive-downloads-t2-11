@@ -1,0 +1,18 @@
+# Retopology Quads When Triangle
+
+<aside>
+<img src="https://www.notion.so/icons/book_lightgray.svg" alt="https://www.notion.so/icons/book_lightgray.svg" width="40px" />
+
+Retopology with quads when Triangle
+
+Si on ajoute 1 vertex ça fait des triangles qu’on peut merge au centre, en revanche si on ajoute 2 vertex ça fait des carrés et donc il suffit de compter le nombre maximum pour la forme par exemple octogone = 8 + 2 soit 10 vertex
+
+Optimisation
+
+![image.png](../../Introduction%20to%20Maya%20Volume%202/Introduction%20to%20Maya%20Volume%202%20Database/Retopology%20With%20Quads%20and%20Handy%20Tips/image.png)
+
+![image.png](../../Introduction%20to%20Maya%20Volume%202/Introduction%20to%20Maya%20Volume%202%20Database/Retopology%20With%20Quads%20and%20Handy%20Tips/image%201.png)
+
+![image.png](../../Introduction%20to%20Maya%20Volume%202/Introduction%20to%20Maya%20Volume%202%20Database/Retopology%20With%20Quads%20and%20Handy%20Tips/image%202.png)
+
+</aside>
