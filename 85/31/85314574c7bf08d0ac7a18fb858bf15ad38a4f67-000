@@ -1,0 +1,25 @@
+﻿Name,Tags
+Blocking Out the Model (Rough Blockout Super Quickly),
+high res modeling into Zbrush,
+Giving polish and take alpha to Zbrush,
+Mesh Component Display,
+Checking Texel Density,
+Baking with high res mesh decimated from Zbrush into Substance Painter,
+Result from baking LionTurtle,
+PBR validation in Substance Painter,
+Maya Workflow & Naming,
+nameFile : LionTurtle_PROP_OrganicShapes_v001.ma,
+"Faire en sorte de bien comprendre le process
+En fait il subtool différente partie de la tortue et c’est plus simple pour les UV",
+"Toutes mes variables, je vais les camel case
+Utiliser toutes les techniques à bon escient.",
+"Draw a line linear or not
+En fait au lieu de append tool et de m’embeter à merge les vertices je peux directement boolean…",
+"Passer rapidement à la version Zbrush.
+Pratique le matin et apprentissage le soir. En fait Zbrush ça reste le colosse de la 3D qui peut a peu près tout faire.",
+Refaire la tortue Process Je la refais grâce au Draw Quad de Maya,
+Attention à bien faire attention au snap lorsqu’on modifie des faces ou des edges notamment pour les aligner,
+Soft Selection Volume vs Surface,
+Soft Select + Ctrl 1 to Hide in order to mask the selection and convert soft selection to face selection in maya,
+Extrude pieces individually and offset for windows / claw …,
+New Blockout Turtle & Better Subtool for Zbrush.,
