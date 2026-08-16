@@ -1,0 +1,11 @@
+# Matériau et Shader | Material & Shader
+
+![image.png](Mat%C3%A9riau%20et%20Shader%20Material%20&%20Shader/image.png)
+
+- **Matériau :** "standardSurface4" (où tu ajustes les propriétés visuelles)
+- **Shader :** "standardSurface4SG" (qui relie le matériau à la géométrie de l'objet pour qu'il soit rendu).
+
+| **Terme** | **Description** |
+| --- | --- |
+| **Matériau** | Le nœud **standardSurface4** représente le matériau. Il contient toutes les propriétés comme la couleur de base (Base Color), le specular, l'émission, etc. Ce matériau définit comment la surface de l'objet interagit avec la lumière et d'autres éléments visuels. |
+| **Shader** | Le nœud **standardSurface4SG** est le **Shading Group** qui connecte le matériau aux objets. Il contient plusieurs types de shaders : le **Surface Shader**, le **Volume Shader** et le **Displacement Shader**, qui sont les composants responsables de rendre ces propriétés sur l'objet 3D. |
