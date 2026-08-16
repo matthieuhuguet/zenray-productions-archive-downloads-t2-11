@@ -1,0 +1,116 @@
+# Propositions de valeur Matthieu Huguet
+
+- Réflexion et plan d’action 14 Février 2025.
+    
+    Réflexion et plan d’action :
+    
+    - **Liste tes compétences et tes réalisations récentes** :
+        - Unreal, Houdini, Maya, Substance, Zbrush
+        - Réalisation récente : Animation sur Unreal Engine et Rigging d’un personnage
+        - Texturing d’un textile
+        - Création d’un logiciel en C++ de prise de captures d’écrans et automatisation de génération de leads via recherche sur internet.
+    - **Note en face de chaque compétence** :
+        - Unreal ⇒ Gros studio AAA, Projet Indé, Houdini = Gros studio AAA, Maya Gros studio AAA et moyen , Substance Standard de l’industrie, Zbrush = Gros studio et Musée etc.
+        - Quel **résultat** tu peux leur apporter rapidement je peux me spécialiser dans les temples japonais et développé comme ça.
+    - **Choisis la plus “vendable”** :
+        - J’ai toujours privilégier le fait de bien appliquer le tutoriels donc j’ai crée un moulin procédural, une maison viking mais j’ai peut être du mal à aller au dela. Ce qui serait le plus vendable selon moi, c’est un jeu ou une expérience ou un asset finalisé, mais je ne sais pas si les gens acheterait vraiment un environnement je me dis que c’est trop spécifique à un sujet alors que par exemple un drone, une voiture, ça peut aller dans n’importe quel projet.
+    - **Propose-toi mentalement un tarif de base** :
+        - Ex. : ça ne me dérange pas de vendre cher quelque chose de très bien fait mais il faut évaluer la concurrence par exemple Kitbash c’est vraiment ultra premium et ce n’est pas si cher que ça. Le premium ultime serait de pouvoir vendre des jeux à 80 Euros comme sony mais ce sera plus difficile.
+- Passage à l’action 14 février 2025 :
+    
+    **Prochain mini-pas concret (dans l’heure qui suit) : Décider précisément d’un “mini-produit” à mettre en vente rapidement.**
+    
+    Voici comment procéder :
+    
+    1. **Choisis un seul type d’asset** parmi ceux que tu maîtrises le mieux (une maison viking procédurale, un drone, un véhicule, etc.). : Je ne sais pas ce que je maitrise le mieux mais j’immagine que j’aimerai recréer des assets qui existent probablement dans d’autres jeux par exemple épées iconiques de the witcher 3 ou final fantasy tout en y apportant des variations pour éviter le copyright et aussi faire en sorte que je puisse créer quelque chose d’intéressant par exemple : 
+    2. **Définis son usage** : dans quel style de jeu ou de projet cet asset pourrait-il être intégré ? (sci-fi, médiéval, moderne…)
+    3. **Vise la simplicité** : un asset unique ou un petit pack cohérent (ex. 3 variations de la même voiture, 2 versions d’un temple japonais).
+    4. **Liste rapidement (une dizaine de minutes)** ce qui fait la **valeur ajoutée** de ton asset :
+        - Niveau de détail, textures PBR, compatibilité Unreal / Unity, style artistique particulier…
+    5. **Regarde vite fait la concurrence** (KitBash, Unreal Marketplace, Unity Asset Store) :
+        - À combien vendent-ils des assets de complexité similaire ?
+        - Positionne-toi dans une gamme de prix “moyenne” ou “moyenne-plus” (pour débuter).
+    
+    **À la fin de cette mini-analyse (60 minutes max), tu dois avoir :**
+    
+    - Le nom de ton futur pack / asset (ex. “Modular Japanese Gate Pack”).
+    - Une ou deux phrases expliquant à qui il s’adresse (ex. “Pour les jeux d’aventure à ambiance asiatique”).
+    - Un prix repère (ex. 20 €, 30 €, etc.).
+
+![output_value_proposition.png](Propositions%20de%20valeur%20Matthieu%20Huguet/output_value_proposition.png)
+
+- Spécialisation
+    
+    Spécialisé Japon / Environnement / Shaders Texturing / Jeux Vidéos / Cinéma VFX
+    
+    ta détermination est une force énorme. Voici une feuille de route concrète pour sortir de l'impasse, étape par étape, en utilisant tes compétences (code + environnements) et tes passions (Shogun, Ghost of Tsushima) :
+    
+    ### 1. **Monétisation Express (0 à 3 mois)**
+    
+    - **Vends des micro-services** sur Fiverr/Upwork :
+        
+        ➤ "Je code des outils pour créateurs d'environnements 3D (automation Blender/Unreal)"
+        
+        ➤ "Je crée des textures procédurales pour jeux vidéo"
+        
+        *Exemple concret* : Un asset "forêt japonaise stylisée" pour Unity/Unreal avec ton code + design, vendu $15 sur l'Asset Store.
+        
+    - **Trouve 3 clients rapides** :
+        
+        Poste chaque jour sur les forums Reddit r/gameDevClassifieds et r/INAT avec :
+        
+        *"Dev technique freelance - Je transforme vos concepts d'environnements en prototypes jouables (premier projet gratuit si intéressant)"*.
+        
+    
+    ### 2. **Portfolio Killer (1 weekend)**
+    
+    Crée **1 projet hyper-ciblé** :
+    
+    ➤ Un environnement "village de samouraïs" interactif (inspiré de Ghost of Tsushima) avec :
+    
+    - Un système de feuilles qui tombent (code en C#/Python)
+    - Un shader d'eau stylisée
+    - 3 assets modélisés (lanterne, pont, maison)
+        
+        ➤ Monte une vidéo de 60s sur YouTube/TikTok avec le hashtag #medievaljapanDev. C'est ta carte de visite.
+        
+    
+    ### 3. **Routine Anti-Burnout**
+    
+    - **14h-16h : Création pure** (sans pression de résultat)
+    - **16h-17h : "Chasse" active** (postuler/network)
+    - **17h-18h : Feedback loop** (montre ton travail à 1 personne, même sur Discord)
+        
+        ➤ Utilise Toggl Track pour mesurer VRAIMENT où part ton temps.
+        
+    
+    ### 4. **Perfectionnisme : Le Hack**
+    
+    Adopte la règle **"70% = ship"** :
+    
+    - Ton projet est utilisable à 70% ? Publie-le en "version beta" avec un discount.
+    - Exemple : "Kit d'environnement feudal Japan (early access) - 7aulieude7*aulieude*20". Les feedbacks des acheteurs guideront tes améliorations.
+    
+    ### 5. **Réseautage Minimaliste**
+    
+    - Rejoins **1 seul** serveur Discord de devs (ex : Experience Points). Poste chaque vendredi une capture d'écran + 1 défi technique résolu.
+    - Contacte **3 studios indés** FR/JP par semaine avec un message court :
+        
+        *"Je peux optimiser vos environnements open-world (démonstration gratuite sur un niveau). Intéressé ?"*.
+        
+    
+    ### 6. **Santé = Productivité**
+    
+    - Psoriasis : Demande à ton médecin un shampooing au **kétoconazole 2%** (souvent efficace en 1 semaine).
+    - 18h-20h : **OFF absolu** → Mets un casque sans son + balade en vélo. Ton cerveau a besoin de vide pour "digérer" le code.
+    
+    ### 7. **Preuve par l'exemple**
+    
+    - **Yan361** : Un dev FR qui vend des assets "Japan Lowpoly" sur l'Unreal Marketplace. 4 ventes/jour à 25=25=3k/mois.
+    - Son secret ? Une niche ultra-spécifique (temples shinto) + une démo jouable sur itch.io.
+    
+    Tu as déjà 80% de ce qu'il faut. Le dernier 20% ? **Vendre avant de finir.** Le monde du jeu vidéo adore les WIP (Work in Progress). Chaque vendredi, poste 1 GIF de ton environnement + un "Qu'en pensez-vous ?". Les premiers clients viendront naturellement.
+    
+    C'est le moment de **shifter** de "je code pour moi" à "je code pour X communauté qui a besoin de Y". Tu as 24 ans, c'est l'âge moyen des fondateurs de studios indés à succès. La machine est déjà chaude, il reste juste à appuyer sur Start.
+    
+    PS : Si tu veux un coup de main pour ton premier post Reddit/Portfolio, envoie-moi un brouillon, je t'aide à le peaufiner. Pas de jugement, juste des actions.
