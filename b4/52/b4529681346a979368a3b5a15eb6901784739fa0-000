@@ -1,0 +1,12 @@
+﻿NULindicate the end of a string,Fichiers,\0
+Last character of a string,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2068.png,
+string = n+1 byten = typing character,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2069.png,"hi!4 bytes'h', 'i', and '!', plus an additional byte for the null terminator ('\0'). So, ""hi!"" would be 4 bytes in total."
+Space value in ASCII,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2071.png,
+string can be an Array of characters,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2072.png,
+Return 72 73 33 because of int conversion,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2073.png,
+Sentinel special value,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2070.png,
+Tous les éléments du tableau.,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2074.png,
+return,,• return : C'est un mot-clé utilisé dans les fonctions pour indiquer la valeur qui doit être renvoyée à l'endroit où la fonction a été appelée.
+several variables,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2075.png,
+More concise and preferred wa,,"int ARRAY[] = {a, b, c};"
+scores[i]tableau a partir d'une variable iqui prend la valeur d'un entier ici i,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2076.png,
