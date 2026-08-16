@@ -1,0 +1,8 @@
+# Blue Dot in Levels (Streaming Methods)
+
+Voici comment fonctionnent les **méthodes de streaming** :
+
+- **Blueprint (point bleu)** : Le niveau est contrôlé via des scripts Blueprint, ce qui vous donne un contrôle total sur son chargement ou déchargement.
+- **Toujours chargé (sans point bleu)** : Le niveau est toujours chargé en mémoire et ne se déchargera pas pendant le jeu.
+
+![image.png](Blue%20Dot%20in%20Levels%20(Streaming%20Methods)/image.png)
