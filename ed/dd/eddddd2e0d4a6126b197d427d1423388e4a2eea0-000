@@ -1,0 +1,4 @@
+# Bitmap
+
+Description: Used to import a bitmap into your graph or create a bitmap for 2D painting tools. Essential whenever a bitmap file is needed within a graph.
+Fichiers: ../image%2090.png
