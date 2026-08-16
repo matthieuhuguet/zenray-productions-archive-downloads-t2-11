@@ -1,0 +1,26 @@
+# Practice_JapanArchDesign_Interiors_MasterPractice_01
+
+Created: November 5, 2024 11:06 PM
+
+[JapanArchDesign_Interiors_MasterPractice_01](Practice_JapanArchDesign_Interiors_MasterPractice_/JapanArchDesign_Interiors_MasterPractice_01%20137d4ee179c380b38902c89484bbb4f5.csv)
+
+**Mapping UV et Création de Textures
+
+J1 : Exercice : UV mapping d'une maison japonaise. Contexte : Projet freelance, modélisation d'une maison japonaise.
+J2 : Exercice : Créer des textures pour murs, toit, et portes. Contexte : Utiliser des images de référence pour la maison.
+J3 : Exercice : Appliquer les textures sur le modèle. Contexte : Vérifier le rendu dans le moteur de rendu.
+Création de Matériaux Physiques (Shading)
+
+J4 : Exercice : Créer un matériau pour le toit (tuiles). Contexte : Maison japonaise, spécificités des matériaux.
+J5 : Exercice : Créer un matériau pour les murs (bois). Contexte : Utiliser des propriétés physiques appropriées.
+J6 : Exercice : Ajuster les paramètres de réflexion et de rugosité. Contexte : S'assurer que les matériaux réagissent correctement à la lumière.
+Gestion de la Lumière et des Ombres (Lighting)
+
+J7 : Exercice : Configurer l'éclairage principal (lumière du soleil). Contexte : Créer une ambiance réaliste pour la maison japonaise.
+J8 : Exercice : Ajouter des lumières d'accentuation à l'intérieur de la maison. Contexte : Mettre en valeur les caractéristiques architecturales.
+J9 : Exercice : Travailler sur les ombres portées. Contexte : Vérifier la cohérence des ombres avec la source lumineuse.
+J10 : Exercice : Tester différents types d'éclairage (HDRI, éclairage volumétrique). Contexte : Améliorer le rendu global de la scène.
+J11 : Exercice : Ajuster l'intensité et la couleur des lumières. Contexte : Créer une atmosphère spécifique (jour/nuit).
+J12 : Exercice : Rendre une scène finale avec tous les éléments. Contexte : Préparer la présentation pour le client.
+J13 : Exercice : Obtenir des retours sur le rendu final. Contexte : Évaluer le travail auprès d'un groupe d'étude ou d'un mentor.
+J14 : Exercice : Réviser et ajuster les éléments en fonction des retours. Contexte : Finaliser le projet pour le client.**
