@@ -1,0 +1,25 @@
+﻿Titre,Loops,Property,Fichiers
+,"Lorsque vous appelez meow(3), vous fournissez la valeur 3 à n, et ensuite la boucle for utilise la variable i comme un compteur pour contrôler le nombre d'itérations. Donc, c'est i qui détermine combien de fois le message ""meow"" sera affiché, en utilisant la valeur que vous avez fournie à n lors de l'appel de la fonction.","#include <stdio.h>
+void meow(int n);
+int main(void)
+{
+    meow(0);
+}
+void meow(int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        printf(""meow\n"");
+    }
+}",
+,argument,This is an argument,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2049.png
+,"Placer la fonction que nous créons au-dessus de la fonction principale du programme signifie que les variables déclarées dans cette fonction seront accessibles dans la fonction principale. Cela permet d’éviter les problèmes de portée (scope) des variables.En résumé, déclarez vos fonctions avant la fonction principale pour garantir que les variables soient visibles et utilisables dans tout le programme.",,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2050.png
+,Calling a custom function in a loopmeow();,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2051.png
+,void meow(void)la fonction n'a pas de types de donnéesvoid meow(void)Cela spécifie que la fonction meow ne prend aucun argument ou paramètre lorsqu'elle est appelée.,"En utilisant void dans la déclaration de fonction void meow(void), cela indique que la fonction meow ne retourne pas de valeur et n'attend pas de données en entrée. C'est idéal lorsque vous avez une fonction qui exécute une tâche spécifique sans besoin de résultats ou d'arguments. Cela simplifie la structure du code et permet de définir des fonctions pour des actions simples mais importantes.",
+,forever,while (true),
+,for loop,"• Initialization
+• Condition
+• Increment/Decrement","PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2052.png, PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2053.png"
+,while loop,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2054.png
+,wrong,There is a better way of designing things when repetitions.,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2055.png
+,,,"PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2056.png, PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2057.png"
